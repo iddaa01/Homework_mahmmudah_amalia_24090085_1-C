@@ -1,0 +1,33 @@
+##Studi Kasus: Program Pengembangan Anak
+
+Latar Belakang:
+Banyak anak di masyarakat menghadapi tantangan dalam mendapatkan pendidikan yang layak dan kesehatan yang optimal akibat keterbatasan ekonomi. Program pengembangan anak bertujuan untuk menyediakan dukungan komprehensif bagi anak-anak ini, termasuk pendidikan, kesehatan, dan nutrisi yang memadai.
+
+Tujuan:
+Tujuan program ini adalah untuk memastikan bahwa setiap anak memiliki akses ke pendidikan berkualitas, layanan kesehatan dasar, dan makanan bergizi untuk mendukung pertumbuhan dan perkembangan mereka.
+
+Data Pribadi Anak:
+
+1. Nama
+2. Usia
+3. Tempat Tinggal
+4. No handphone Orang Tua
+5. Pekerjaan Orang Tua
+
+Syarat Kelengkapan:
+1. Kewarganegaraan
+2. Sekolah atau universitas
+3. Nomor NIM (jika mahasiswa)
+4. NO.KK
+
+Kriteria:
+1. Anak berusia di bawah 18 tahun
+2. Harus WNI (Warga Negara Indonesia)
+3. Orang tua bukan dari golongan TNI, ASN, Polri
+4. Penghasilan orang tua <= Rp 2.000.000 per bulan
+
+Hasil:
+
+Jika memenuhi kriteria, cetak data anak dan hasil bahwa anak tersebut berhak mendapatkan program bantuan.
+
+Jika tidak memenuhi kriteria, cetak pesan bahwa anak tersebut tidak berhak mendapatkan program bantuan.
